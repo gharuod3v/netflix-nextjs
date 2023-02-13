@@ -16,3 +16,4 @@ npx create-next-app --example with-tailwindcss with-tailwindcss-app
 
 
 
+![alt-text](./public/readme.png)
